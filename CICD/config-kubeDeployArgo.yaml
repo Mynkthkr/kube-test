@@ -1,0 +1,2 @@
+appName: demo    #This parameter is optional 
+dockerFilePath: docker/Dockerfile   #This parameter is optional 
