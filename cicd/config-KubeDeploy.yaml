@@ -1,2 +1,2 @@
-appName: demo
+appName: test
 dockerFilePath: docker/Dockerfile   #This parameter is optional 
