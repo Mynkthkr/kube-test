@@ -1,2 +1,0 @@
-appName: testing    #This parameter is optional 
-dockerFilePath: docker/Dockerfile   #This parameter is optional 
